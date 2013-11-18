@@ -122,13 +122,7 @@
             <para PARENT="Default Paragraph Style" OpticalMargins="0"/>
             <ITEXT CH="Features"/>
             <para PARENT="Header" OpticalMargins="0"/>
-            <ITEXT CH="QGIS provides a continously growing number of capabilities provided by core functions and plugins. You can visualize, manage, edit, ana"/>
-            <para PARENT="Default Paragraph Style" OpticalMargins="0"/>
-            <para PARENT="Default Paragraph Style" OpticalMargins="0"/>
-            <para PARENT="Default Paragraph Style" OpticalMargins="0"/>
-            <para PARENT="Default Paragraph Style" OpticalMargins="0"/>
-            <para PARENT="Default Paragraph Style" OpticalMargins="0"/>
-            <ITEXT CH="lyse data, and compose printable maps. "/>
+            <ITEXT CH="QGIS provides a continously growing number of capabilities provided by core functions and plugins. You can visualize, manage, edit, analyse data, and compose printable maps. "/>
             <trail PARENT="Default Paragraph Style" OpticalMargins="0"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
