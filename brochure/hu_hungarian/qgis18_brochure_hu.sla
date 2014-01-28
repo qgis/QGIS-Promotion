@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.3">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.28125984252" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A4" FIRSTNUM="1" BOOK="2" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="Canon HDTV gamma 1.5 Monitor" DPPr="Agfa : Swop Standard" DPIn="Canon HDTV gamma 1.5 Monitor" DPInCMYK="Agfa : Swop Standard" DPIn2="Canon HDTV gamma 1.5 Monitor" DPIn3="Agfa : Swop Standard" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="German" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="1" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="Black" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="0" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Azure3" CMYK="#0c000032" Spot="0" Register="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="GreenYellow" RGB="#966432" Spot="0" Register="0"/>
+        <COLOR NAME="Grey2" CMYK="#000000fa" Spot="0" Register="0"/>
+        <COLOR NAME="Keine" RGB="#966432" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="QGIS dark green" RGB="#2eac2d" Spot="0" Register="0"/>
+        <COLOR NAME="QGIS green yellow" RGB="#d1db2d" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="WhiteSmoke" CMYK="#0000000a" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="3" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style"/>
+        <STYLE NAME="Kopie von Default Paragraph Style (1)" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="12" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style"/>
+        <STYLE NAME="Heading1" ALIGN="0" LINESPMode="0" LINESP="19.2" INDENT="0" RMARGIN="0" FIRST="0" VOR="8" NACH="8" DROP="0" DROPLIN="2" DROPDIST="0" FONT="CenturySchL Bold" FONTSIZE="12" FEATURES="" FCOLOR="QGIS dark green" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="List" PARENT="Default Paragraph Style" INDENT="11.3385826771654" FIRST="-11.3385826771654">
+            <Tabs Type="0" Pos="11.3385826771654" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Subtitle" ALIGN="0" LINESPMode="0" LINESP="16.8" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6" DROP="0" DROPLIN="2" DROPDIST="0" FONT="A030 Regular" FONTSIZE="14" FEATURES="inherit" FCOLOR="Cool Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="Title" ALIGN="0" LINESPMode="1" LINESP="72" INDENT="0" RMARGIN="0" FIRST="0" VOR="8" NACH="12" DROP="0" DROPLIN="2" DROPDIST="0" FONT="CenturySchL Bold" FONTSIZE="26" FEATURES="" FCOLOR="QGIS dark green" FSHADE="100" SCOLOR="Keine" SSHADE="90" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <STYLE NAME="Kopie von Default Paragraph Style (2)" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="12" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <CHARSTYLE CNAME="Kopie von Default Character Style (1)" FONT="A030 Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Cool Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <CHARSTYLE CNAME="Kopie von Default Character Style (2)" FONT="A030 Regular" FONTSIZE="10" FEATURES="inherit" FCOLOR="Cool Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="0" PDLanguage="0" markOffset="5.77640625" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="Canon HDTV gamma 1.5 Monitor" ImageP="Canon HDTV gamma 1.5 Monitor" PrintP="Agfa : Swop Standard" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="Bitstream Vera Serif Bold"/>
+            <Fonts Name="CenturySchL Bold"/>
+            <Subset Name="A030 Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.28125984252" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal links" MNAM="" Size="A4" Orientation="1" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.28125984252" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal rechts" MNAM="" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.28125984252" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="Normal Mitte" MNAM="" Size="A4" Orientation="1" LEFT="2" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.28125984252" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal links" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="941.889763779528" PAGEYPOS="20" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.28125984252" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal Mitte" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="420.6299213" YPOS="79.84251969" WIDTH="200.6299213" HEIGHT="274.0494092" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="3.881" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.63 0 200.63 0 200.63 0 200.63 0 200.63 274.049 200.63 274.049 200.63 274.049 200.63 274.049 0 274.049 0 274.049 0 274.049 0 274.049 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.63 0 200.63 0 200.63 0 200.63 0 200.63 274.049 200.63 274.049 200.63 274.049 200.63 274.049 0 274.049 0 274.049 0 274.049 0 274.049 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="QGIS köszönetet mond az adományozóknak és a szponzoroknak, kiemelten az arany szponzorának"/>
+            <trail PARENT="Default Paragraph Style"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="591.1732283" YPOS="266.1428571" WIDTH="298.4962406" HEIGHT="356.4586466" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="White" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.380735000765306" LOCALSCY="0.380735000765306" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_15/qgislogo(1).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 298.496 0 298.496 0 298.496 0 298.496 0 298.496 356.459 298.496 356.459 298.496 356.459 298.496 356.459 0 356.459 0 356.459 0 356.459 0 356.459 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 298.496 0 298.496 0 298.496 0 298.496 0 298.496 356.459 298.496 356.459 298.496 356.459 298.496 356.459 0 356.459 0 356.459 0 356.459 0 356.459 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="700.9448819" YPOS="79.52755906" WIDTH="200.2517021" HEIGHT="180.97697" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR="None" PCOLOR2="None" TXTFILL="GreenYellow" TXTSTROKE="Grey2" TXTSTRSH="80" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Bitstream Vera Serif Bold" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.252 0 200.252 0 200.252 0 200.252 0 200.252 180.977 200.252 180.977 200.252 180.977 200.252 180.977 0 180.977 0 180.977 0 180.977 0 180.977 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.252 0 200.252 0 200.252 0 200.252 0 200.252 180.977 200.252 180.977 200.252 180.977 200.252 180.977 0 180.977 0 180.977 0 180.977 0 180.977 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="26" CH="Quantum GIS"/>
+            <para PARENT="Title"/>
+            <ITEXT CH="Nyílt forráskódú térinformatikai rendszer"/>
+            <para PARENT="Subtitle"/>
+            <ITEXT CH="1.8 Lisboa"/>
+            <trail PARENT="Subtitle"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="419.6299213" YPOS="487.677165338583" WIDTH="330" HEIGHT="99.47541802" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="10" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Bitstream Vera Serif Bold" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="1" TEXTRA="1" BEXTRA="1" REXTRA="1" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 330 0 330 0 330 0 330 0 330 99.4754 330 99.4754 330 99.4754 330 99.4754 0 99.4754 0 99.4754 0 99.4754 0 99.4754 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 330 0 330 0 330 0 330 0 330 99.4754 330 99.4754 330 99.4754 330 99.4754 0 99.4754 0 99.4754 0 99.4754 0 99.4754 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Projekt elnök: Gary Sherman"/>
+            <breakline/>
+            <ITEXT CH="Email: info@qgis.org"/>
+            <breakline/>
+            <ITEXT CH="Honlap: http://qgis.org"/>
+            <breakline/>
+            <ITEXT CH="Letöltés: http://download.qgis.org"/>
+            <breakline/>
+            <ITEXT CH="Wiki: http://qgis.org/wiki"/>
+            <breakline/>
+            <ITEXT CH="IRC: #qgis on freenode.net"/>
+            <trail PARENT="Default Paragraph Style" ALIGN="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="420.0161117" YPOS="124.253905296457" WIDTH="200.895811" HEIGHT="85.03937008" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.170106529212532" LOCALSCY="0.170106529212532" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/AAAlogo_10cm.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.896 0 200.896 0 200.896 0 200.896 0 200.896 85.0394 200.896 85.0394 200.896 85.0394 200.896 85.0394 0 85.0394 0 85.0394 0 85.0394 0 85.0394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.896 0 200.896 0 200.896 0 200.896 0 200.896 85.0394 200.896 85.0394 200.896 85.0394 200.896 85.0394 0 85.0394 0 85.0394 0 85.0394 0 85.0394 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="139.96850394" YPOS="80.09448819" WIDTH="201.2598425" HEIGHT="515.9055118" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 201.26 0 201.26 0 201.26 0 201.26 0 201.26 515.906 201.26 515.906 201.26 515.906 201.26 515.906 0 515.906 0 515.906 0 515.906 0 515.906 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 201.26 0 201.26 0 201.26 0 201.26 0 201.26 515.906 201.26 515.906 201.26 515.906 201.26 515.906 0 515.906 0 515.906 0 515.906 0 515.906 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Új funkciók"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="QGIS 1.8 Lisboa számos új funkciót, fejlesztést és hibajavítást tartalmaz:"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="QGIS Böngésző"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="DB Manager: adatok hatékony hozzáadása, szerkesztése és lekérdezése"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Új szimbólum réteg típusok: vonaltípussal sraffozás, szimbólummal kitöltés"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Terep elemző modul"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Ellipszis szimbólumok"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Projektek egymásba ágyazásának támogatása"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Réteg csoportosítás"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Log üzenetek"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="GUI testreszabás"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Megújított vetület kiválasztó ablak"/>
+            <para PARENT="List"/>
+            <ITEXT CH="Új: Sextante a QGIS-hez"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="GRASS, SAGA és több más algoritmust, és még modell építőt is integrál"/>
+            <para PARENT="List"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="140.138509937874" YPOS="439.386799377165" WIDTH="240.6015038" HEIGHT="156.820623" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.2749731472" LOCALSCY="0.2749731472" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/model2.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 240.602 0 240.602 0 240.602 0 240.602 0 240.602 156.821 240.602 156.821 240.602 156.821 240.602 156.821 0 156.821 0 156.821 0 156.821 0 156.821 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 240.602 0 240.602 0 240.602 0 240.602 0 240.602 156.821 240.602 156.821 240.602 156.821 240.602 156.821 0 156.821 0 156.821 0 156.821 0 156.821 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="982.141732279528" YPOS="80.0944881448806" WIDTH="200.4094488" HEIGHT="515.9055118" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.409 0 200.409 0 200.409 0 200.409 0 200.409 515.906 200.409 515.906 200.409 515.906 200.409 515.906 0 515.906 0 515.906 0 515.906 0 515.906 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.409 0 200.409 0 200.409 0 200.409 0 200.409 515.906 200.409 515.906 200.409 515.906 200.409 515.906 0 515.906 0 515.906 0 515.906 0 515.906 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Amit a QGIS-sel megtehetsz... "/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Különböző vektor adatok megjelenítése, szerkesztése és létrehozása, mint például  Shapefiles, GRASS vektor,  PostgreSQL/PostGIS, SpatiaLite, ... "/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Raszter megjelenítés többek között  TIFF, ERDAS Img., GRASS, ... "/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Raszter és vektor adatok elemzése"/>
+            <para PARENT="List" ALIGN="3"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Térképek tervezése a lap összállítással"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Webes szolgáltatások publikálása QGIS Serverrel"/>
+            <para PARENT="List"/>
+            <ITEXT FONTSIZE="12" CH="Adat import és export"/>
+            <ITEXT FONTSIZE="10" CH=" "/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Szövegfájl import és rétegként megjelenítés "/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="PostGIS adatok importálása és kezelése"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Trackek, útvonalak és útpontok letöltése a GPS-ről és megjelenítésük"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="OGC WMS, WFS. WCS és WPS rétegek importja "/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Elemek létrehozása QGIS-ben és feltöltésük a GPS-be "/>
+            <para PARENT="List" ALIGN="0"/>
+            <ITEXT CH="QGIS a fejlesztőknek"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Bővíthető modul szerkezet"/>
+            <para PARENT="List" ALIGN="3"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Modulok vagy egyedi alkalmazások létrehozása Python vagy C++ nyelv és a QGIS könyvtár felhasználásával"/>
+            <para PARENT="List" ALIGN="3"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="1262.77165357953" YPOS="80.0944881448806" WIDTH="200.4094488" HEIGHT="515.9055118" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.409 0 200.409 0 200.409 0 200.409 0 200.409 515.906 200.409 515.906 200.409 515.906 200.409 515.906 0 515.906 0 515.906 0 515.906 0 515.906 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.409 0 200.409 0 200.409 0 200.409 0 200.409 515.906 200.409 515.906 200.409 515.906 200.409 515.906 0 515.906 0 515.906 0 515.906 0 515.906 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="1542.40157477953" YPOS="80.0944881448806" WIDTH="200.4094488" HEIGHT="515.9055118" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 200.409 0 200.409 0 200.409 0 200.409 0 200.409 515.906 200.409 515.906 200.409 515.906 200.409 515.906 0 515.906 0 515.906 0 515.906 0 515.906 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 200.409 0 200.409 0 200.409 0 200.409 0 200.409 515.906 200.409 515.906 200.409 515.906 200.409 515.906 0 515.906 0 515.906 0 515.906 0 515.906 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Több platformon"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="A QGIS projekt telepítőt és csomagot biztosít "/>
+            <ITEXT FONTSIZE="10" CH="GNU/Linux"/>
+            <ITEXT CH=", Unix, Mac OS X és Windows operációs rendszerekre."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Súgó és támogatás"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="A QGIS támogatást egy lelkes felhasználói és fejlesztői közösség adja. A világ minden táján megtalálható felhasználók és fejlesztők közül valaki biztos tudja a választ a kérdésedre. Önkéntesek több mint 30 nyelvre lefordították a QGIS-t. Számos aktív levelező lista és barátságos csevegő csatorna biztosítja a közvetlen hozzáférést  más felhasználók és fejlesztők segítségéhez és tanácsaihoz. "/>
+            <para PARENT="Default Paragraph Style" ALIGN="4"/>
+            <ITEXT CH="Üzleti fejlesztés is lehetséges (látogasd meg a Quantum GIS honlapot a részletekért). "/>
+            <para PARENT="Default Paragraph Style" ALIGN="4"/>
+            <ITEXT CH="Modulok"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Sextante"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="GRASS"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="fTools (vektor) &amp; GdalTools (raszter)"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="GPS eszközök"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="DB manager"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="Raster georeferálás"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="OpenLayers "/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="OSM"/>
+            <para PARENT="List"/>
+            <ITEXT CH="-"/>
+            <tab/>
+            <ITEXT CH="..."/>
+            <para PARENT="List"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1221.88976377953" YPOS="20" WIDTH="140.314960629921" HEIGHT="148.818897637795" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.23985463355542" LOCALSCY="0.24003048006096" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/map1.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1361.92125984252" YPOS="20" WIDTH="140.3149606" HEIGHT="148.8188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.239854633504274" LOCALSCY="0.24003048" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/map4.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1221.88976377953" YPOS="169.102362204724" WIDTH="140.3149606" HEIGHT="148.8188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.239854633504274" LOCALSCY="0.24003048" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/map9.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1361.92125987953" YPOS="169.102362204724" WIDTH="140.3149606" HEIGHT="148.8188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.239854633504274" LOCALSCY="0.24003048" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/map7.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1221.889764" YPOS="317.63779527559" WIDTH="140.3149606" HEIGHT="148.8188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.239854633504274" LOCALSCY="0.24003048" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/map10.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1361.92126" YPOS="317.63779527559" WIDTH="140.3149606" HEIGHT="148.8188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.239854633504274" LOCALSCY="0.24003048" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/map8.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1221.889764" YPOS="466.740157475589" WIDTH="140.3149606" HEIGHT="148.8188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.239854633504274" LOCALSCY="0.24003048" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/map3.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="1361.92126" YPOS="466.740157475589" WIDTH="140.3149606" HEIGHT="148.8188976" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.239854633504274" LOCALSCY="0.24003048" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../images_18/map6.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="1" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.315 0 140.315 0 140.315 0 140.315 0 140.315 148.819 140.315 148.819 140.315 148.819 140.315 148.819 0 148.819 0 148.819 0 148.819 0 148.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
