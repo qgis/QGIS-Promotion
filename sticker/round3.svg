@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="round2.svg"
-   inkscape:export-filename="C:\Users\anita_000\Documents\GitHub\QGIS-Promotion\sticker\round2.png"
+   sodipodi:docname="round3.svg"
+   inkscape:export-filename="C:\Users\anita_000\Documents\GitHub\QGIS-Promotion\sticker\round3.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -274,6 +274,17 @@
          stdDeviation="5.560118"
          id="feGaussianBlur4233" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3933"
+       id="radialGradient3061"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.767354,-0.0714734,0.10181778,2.1836121,-167.50252,-533.88898)"
+       cx="104.52949"
+       cy="365.16595"
+       fx="104.52949"
+       fy="365.16595"
+       r="212.59842" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -282,9 +293,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="218.92524"
-     inkscape:cy="306.02074"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="204.88826"
+     inkscape:cy="298.10655"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -346,15 +357,10 @@
        d="m 424.70242,211.8568 c 0,116.73222 -95.18355,211.36238 -212.59842,211.36238 C 94.689139,423.21918 -0.49441528,328.58902 -0.49441528,211.8568 -0.49441528,95.124577 94.689139,0.49441528 212.104,0.49441528 c 117.41487,0 212.59842,94.63016172 212.59842,211.36238472 z"
        transform="matrix(0.95000003,0,0,0.95555559,11.099616,637.32282)" />
     <path
-       transform="matrix(1.6018704,0,0,0.98908386,-136.6647,472.21963)"
-       d="m 424.70242,211.8568 c 0,116.73222 -95.18355,211.36238 -212.59842,211.36238 C 94.689139,423.21918 -0.49441528,328.58902 -0.49441528,211.8568 -0.49441528,95.124577 94.689139,0.49441528 212.104,0.49441528 c 117.41487,0 212.59842,94.63016172 212.59842,211.36238472 z"
-       sodipodi:ry="211.36238"
-       sodipodi:rx="212.59842"
-       sodipodi:cy="211.8568"
-       sodipodi:cx="212.104"
-       id="path3765-7"
-       style="opacity:0.51827243;fill:url(#radialGradient3966);fill-opacity:1;fill-rule:evenodd;stroke:none"
-       sodipodi:type="arc" />
+       style="opacity:0.51827243000000001;fill:url(#radialGradient3061);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 225.9375 24.0625 C 114.39337 24.0625 23.96875 114.48712 23.96875 226.03125 C 23.96875 230.97445 24.15086 235.86454 24.5 240.71875 C 79.154435 263.65361 145.23629 277.0625 216.4375 277.0625 C 296.30481 277.0625 369.7359 260.19904 427.8125 231.9375 C 427.86935 229.96684 427.90625 228.01567 427.90625 226.03125 C 427.90625 114.48712 337.48163 24.0625 225.9375 24.0625 z "
+       transform="translate(-13.344284,613.74302)"
+       id="path3765-7" />
     <g
        transform="matrix(6.0962159,0,0,6.0962159,-1763.2192,-2104.9578)"
        id="layer1-4"
